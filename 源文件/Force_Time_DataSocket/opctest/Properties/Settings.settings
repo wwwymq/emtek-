@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="opctest.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="bool1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">opc://localhost/National Instruments.NIOPCServers.V5/Data Type Examples.16 Bit Device.R Registers.Boolean2</Value>
+    </Setting>
+    <Setting Name="Setting" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">255, 224, 192</Value>
+    </Setting>
+    <Setting Name="sss" Type="System.String" Scope="User">
+      <Value Profile="(Default)">["dddf","feefw","ddfwfw"]</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

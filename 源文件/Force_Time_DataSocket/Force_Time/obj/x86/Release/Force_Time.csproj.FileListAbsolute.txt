@@ -1,0 +1,11 @@
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\bin\Release\emtek数据采集.exe.config
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Release\Force_Time.MainWindow.resources
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Release\Force_Time.Properties.Resources.resources
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Release\Force_Time.windowBaseTool.resources
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Release\Force_Time.windowCharts.resources
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Release\Force_Time.windowConfigSense.resources
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Release\Force_Time.windowInfo.resources
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Release\Force_Time.windowSetDeviceName.resources
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Release\Force_Time.windowSetVisiableSense.resources
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Release\Force_Time.csproj.GenerateResource.Cache
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Release\emtek数据采集.exe.licenses

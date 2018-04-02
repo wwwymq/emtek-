@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E162496D-AE79-4438-895E-9209269BCBC1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Force_Time</RootNamespace>
+    <AssemblyName>emtek数据采集_datasocket</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>E:\采集卡曲线绘制\emtek数据采集DataSocket\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>emtek数据采集opc</ProductName>
+    <ApplicationRevision>27</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>6E66313E3CB908B91920DF3FFE2DAD86592385C1</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Force_Time_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <ApplicationIcon>aa_64X64.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="channelControl">
+      <HintPath>..\..\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\channelControl.dll</HintPath>
+    </Reference>
+    <Reference Include="Iocomp.Instrumentation.WF40.Common">
+      <HintPath>D:\Program Files\Iocomp\Product\.Net\WF40\Instrumentation\4.04\Iocomp.Instrumentation.WF40.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Iocomp.Instrumentation.WF40.Plot">
+      <HintPath>D:\Program Files\Iocomp\Product\.Net\WF40\Instrumentation\4.04\Iocomp.Instrumentation.WF40.Plot.dll</HintPath>
+    </Reference>
+    <Reference Include="Iocomp.Instrumentation.WF40.Pro">
+      <HintPath>D:\Program Files\Iocomp\Product\.Net\WF40\Instrumentation\4.04\Iocomp.Instrumentation.WF40.Pro.dll</HintPath>
+    </Reference>
+    <Reference Include="Iocomp.Instrumentation.WF40.Std">
+      <HintPath>d:\Program Files\Iocomp\Product\.Net\WF40\Instrumentation\4.04\Iocomp.Instrumentation.WF40.Std.dll</HintPath>
+    </Reference>
+    <Reference Include="Iocomp.WF40.OPC">
+      <HintPath>D:\Program Files\Iocomp\Product\.Net\WF40\Instrumentation\4.04\Iocomp.WF40.OPC.dll</HintPath>
+    </Reference>
+    <Reference Include="Ionic.Zip">
+      <HintPath>..\..\npoi\NPOI 1.2.5 binary and examples\bin\.net 4.0\Ionic.Zip.dll</HintPath>
+    </Reference>
+    <Reference Include="myLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\zedgraph_sample_projects_5.1.2\CSharp\myLib\bin\Debug\myLib.dll</HintPath>
+    </Reference>
+    <Reference Include="NationalInstruments.Common, Version=15.1.40.49152, Culture=neutral, PublicKeyToken=dc6ad606294fc298, processorArchitecture=MSIL" />
+    <Reference Include="NationalInstruments.Net, Version=12.0.40.318, Culture=neutral, PublicKeyToken=dc6ad606294fc298, processorArchitecture=x86" />
+    <Reference Include="NationalInstruments.NetworkVariable, Version=12.0.40.318, Culture=neutral, PublicKeyToken=dc6ad606294fc298, processorArchitecture=MSIL" />
+    <Reference Include="NationalInstruments.UI, Version=12.0.40.318, Culture=neutral, PublicKeyToken=dc6ad606294fc298, processorArchitecture=MSIL" />
+    <Reference Include="NationalInstruments.UI.WindowsForms, Version=12.0.40.318, Culture=neutral, PublicKeyToken=dc6ad606294fc298, processorArchitecture=MSIL" />
+    <Reference Include="NPOI">
+      <HintPath>..\..\npoi\NPOI 1.2.5 binary and examples\bin\.net 4.0\NPOI.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WeifenLuo.WinFormsUI.Docking">
+      <HintPath>..\..\..\dockpanel\dockpanelsuite-3.0-alpha8\dockpanelsuite-3.0-alpha8\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll</HintPath>
+    </Reference>
+    <Reference Include="ZedGraph">
+      <HintPath>..\..\zedGraph\zedgraph_dll_v515\zedgraph_dll_v5.1.5\ZedGraph.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="窗体\MainWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="窗体\MainWindow.Designer.cs">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="opcConfic.cs" />
+    <Compile Include="opcConfic.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>opcConfic.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="窗体\windowBaseTool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="窗体\windowBaseTool.Designer.cs">
+      <DependentUpon>windowBaseTool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="窗体\windowCharts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="窗体\windowCharts.Designer.cs">
+      <DependentUpon>windowCharts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="窗体\windowConfigSense.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="窗体\windowConfigSense.Designer.cs">
+      <DependentUpon>windowConfigSense.cs</DependentUpon>
+    </Compile>
+    <Compile Include="窗体\windowInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="窗体\windowInfo.Designer.cs">
+      <DependentUpon>windowInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="窗体\windowSetDeviceName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="窗体\windowSetDeviceName.Designer.cs">
+      <DependentUpon>windowSetDeviceName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="窗体\windowSetVisiableSense.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="窗体\windowSetVisiableSense.Designer.cs">
+      <DependentUpon>windowSetVisiableSense.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="窗体\MainWindow.resx">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="窗体\windowBaseTool.resx">
+      <DependentUpon>windowBaseTool.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="窗体\windowCharts.resx">
+      <DependentUpon>windowCharts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="窗体\windowConfigSense.resx">
+      <DependentUpon>windowConfigSense.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="窗体\windowInfo.resx">
+      <DependentUpon>windowInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="窗体\windowSetDeviceName.resx">
+      <DependentUpon>windowSetDeviceName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="窗体\windowSetVisiableSense.resx">
+      <DependentUpon>windowSetVisiableSense.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Force_Time_TemporaryKey.pfx" />
+    <None Include="opcConfic.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>opcConfic.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\DataSources\MainWindow.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Resources\dataMB.xls" />
+    <None Include="Resources\DockPanel.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="aa_64X64.ico" />
+    <Content Include="NPOI.XML" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="NationalInstruments.Common">
+      <Visible>False</Visible>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="NationalInstruments.MStudioCLM">
+      <Visible>False</Visible>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="NationalInstruments.Net">
+      <Visible>False</Visible>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="NationalInstruments.NetworkVariable">
+      <Visible>False</Visible>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="NationalInstruments.NiLmClientDLL">
+      <Visible>False</Visible>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="NationalInstruments.UI">
+      <Visible>False</Visible>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="NationalInstruments.UI.Styles3D">
+      <Visible>False</Visible>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="NationalInstruments.UI.WindowsForms">
+      <Visible>False</Visible>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Force_Time.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="toolLeftPortion" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">205</Value>
+    </Setting>
+    <Setting Name="senseCount" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="toolTopBottomPortion" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">105</Value>
+    </Setting>
+    <Setting Name="deviceName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DemoDevice1,BID#0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

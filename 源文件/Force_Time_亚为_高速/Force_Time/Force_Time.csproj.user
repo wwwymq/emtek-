@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>E:\采集卡曲线绘制\emtek数据采集_亚为_高速\|E:\采集卡曲线绘制\emtek数据采集_亚为\|D:\BaiduNetdiskDownload\UMS亚为USB采集卡通用信号采集平台\UMS源代码 必须安装labview\UMS亚为USB采集卡通用信号采集平台V3.4.9 LV2014 源代码 好评送密码\安装文件\|D:\BaiduNetdiskDownload\UMS亚为USB采集卡通用信号采集平台\UMS源代码 必须安装labview\UMS亚为USB采集卡通用信号采集平台V3.4.9 LV2014 源代码 好评送密码\|E:\采集卡曲线绘制\emtek数据采集DataSocket\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>zh-CN</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ReferencePath>
+    </ReferencePath>
+  </PropertyGroup>
+</Project>

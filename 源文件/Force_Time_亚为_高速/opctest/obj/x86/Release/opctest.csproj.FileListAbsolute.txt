@@ -1,0 +1,14 @@
+E:\采集卡曲线绘制\源文件\Force_Time\opctest\bin\Release\opctest.exe.config
+E:\采集卡曲线绘制\源文件\Force_Time\opctest\bin\Release\opctest.exe
+E:\采集卡曲线绘制\源文件\Force_Time\opctest\bin\Release\opctest.pdb
+E:\采集卡曲线绘制\源文件\Force_Time\opctest\bin\Release\Interop.iStripChartXControl.dll
+E:\采集卡曲线绘制\源文件\Force_Time\opctest\bin\Release\AxInterop.iStripChartXControl.dll
+E:\采集卡曲线绘制\源文件\Force_Time\opctest\obj\x86\Release\Interop.iStripChartXControl.dll
+E:\采集卡曲线绘制\源文件\Force_Time\opctest\obj\x86\Release\AxInterop.iStripChartXControl.dll
+E:\采集卡曲线绘制\源文件\Force_Time\opctest\obj\x86\Release\opctest.csproj.ResolveComReference.cache
+E:\采集卡曲线绘制\源文件\Force_Time\opctest\obj\x86\Release\opctest.Form2.resources
+E:\采集卡曲线绘制\源文件\Force_Time\opctest\obj\x86\Release\opctest.Properties.Resources.resources
+E:\采集卡曲线绘制\源文件\Force_Time\opctest\obj\x86\Release\opctest.csproj.GenerateResource.Cache
+E:\采集卡曲线绘制\源文件\Force_Time\opctest\obj\x86\Release\opctest.exe.licenses
+E:\采集卡曲线绘制\源文件\Force_Time\opctest\obj\x86\Release\opctest.exe
+E:\采集卡曲线绘制\源文件\Force_Time\opctest\obj\x86\Release\opctest.pdb

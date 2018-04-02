@@ -1,0 +1,7 @@
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\多线程测试\bin\Debug\多线程测试.exe
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\多线程测试\bin\Debug\多线程测试.pdb
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\多线程测试\obj\x86\Debug\多线程测试.Form1.resources
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\多线程测试\obj\x86\Debug\多线程测试.Properties.Resources.resources
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\多线程测试\obj\x86\Debug\多线程测试.csproj.GenerateResource.Cache
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\多线程测试\obj\x86\Debug\多线程测试.exe
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\多线程测试\obj\x86\Debug\多线程测试.pdb

@@ -1,0 +1,6 @@
+AI0,opc://localhost/National Instruments.NIOPCServers.V5/Simulation Examples.Functions.Sine1
+AI1,opc://localhost/National Instruments.NIOPCServers.V5/Simulation Examples.Functions.Sine2
+AI2,opc://localhost/National Instruments.NIOPCServers.V5/Simulation Examples.Functions.Sine3
+AI3,opc://localhost/National Instruments.NIOPCServers.V5/Simulation Examples.Functions.Sine4
+
+

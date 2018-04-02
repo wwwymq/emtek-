@@ -1,0 +1,193 @@
+F:\C#\Force_Time\Force_Time\bin\Debug\Force_Time.exe.config
+F:\C#\Force_Time\Force_Time\obj\x86\Debug\Force_Time.Properties.Resources.resources
+F:\C#\Force_Time\Force_Time\obj\x86\Debug\Force_Time.csproj.GenerateResource.Cache
+F:\C#\Force_Time\Force_Time\obj\x86\Debug\Force_Time.exe.licenses
+F:\C#\Force_Time\Force_Time\bin\Debug\Force_Time.exe
+F:\C#\Force_Time\Force_Time\bin\Debug\Force_Time.pdb
+F:\C#\Force_Time\Force_Time\bin\Debug\Iocomp.Instrumentation.WF40.Common.dll
+F:\C#\Force_Time\Force_Time\bin\Debug\Iocomp.Instrumentation.WF40.Plot.dll
+F:\C#\Force_Time\Force_Time\bin\Debug\Iocomp.Instrumentation.WF40.Pro.dll
+F:\C#\Force_Time\Force_Time\bin\Debug\Iocomp.Instrumentation.WF40.Std.dll
+F:\C#\Force_Time\Force_Time\bin\Debug\Iocomp.WF40.OPC.dll
+F:\C#\Force_Time\Force_Time\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\C#\Force_Time\Force_Time\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+F:\C#\Force_Time\Force_Time\obj\x86\Debug\Force_Time.exe
+F:\C#\Force_Time\Force_Time\obj\x86\Debug\Force_Time.pdb
+F:\C#\Force_Time\Force_Time\bin\Debug\channelControl.dll
+F:\C#\Force_Time\Force_Time\bin\Debug\channelControl.pdb
+F:\C#\Force_Time\Force_Time\obj\x86\Debug\Force_Time.csprojResolveAssemblyReference.cache
+F:\C#\Force_Time\Force_Time\obj\x86\Debug\Force_Time.MainWindow.resources
+F:\C#\Force_Time\Force_Time\obj\x86\Debug\Force_Time.windowConfigSense.resources
+F:\C#\Force_Time\Force_Time\obj\x86\Debug\Force_Time.windowBaseTool.resources
+F:\C#\Force_Time\Force_Time\obj\x86\Debug\Force_Time.windowInfo.resources
+F:\C#\Force_Time\Force_Time\obj\x86\Debug\Force_Time.windowSetVisiableSense.resources
+F:\C#\Force_Time\Force_Time\bin\Debug\ZedGraph.dll
+F:\C#\Force_Time\Force_Time\bin\Debug\ZedGraph.xml
+F:\C#\Force_Time\Force_Time\bin\Debug\de\ZedGraph.resources.dll
+F:\C#\Force_Time\Force_Time\bin\Debug\es\ZedGraph.resources.dll
+F:\C#\Force_Time\Force_Time\bin\Debug\fr\ZedGraph.resources.dll
+F:\C#\Force_Time\Force_Time\bin\Debug\hu\ZedGraph.resources.dll
+F:\C#\Force_Time\Force_Time\bin\Debug\it\ZedGraph.resources.dll
+F:\C#\Force_Time\Force_Time\bin\Debug\ja\ZedGraph.resources.dll
+F:\C#\Force_Time\Force_Time\bin\Debug\pt\ZedGraph.resources.dll
+F:\C#\Force_Time\Force_Time\bin\Debug\ru\ZedGraph.resources.dll
+F:\C#\Force_Time\Force_Time\bin\Debug\sk\ZedGraph.resources.dll
+F:\C#\Force_Time\Force_Time\bin\Debug\sv\ZedGraph.resources.dll
+F:\C#\Force_Time\Force_Time\bin\Debug\tr\ZedGraph.resources.dll
+F:\C#\Force_Time\Force_Time\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\C#\Force_Time\Force_Time\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\C#\Force_Time\Force_Time\obj\x86\Debug\Force_Time.windowCharts.resources
+F:\C#\Force_Time\Force_Time\bin\Debug\Ionic.Zip.dll
+F:\C#\Force_Time\Force_Time\bin\Debug\NPOI.dll
+F:\C#\Force_Time\Force_Time\bin\Debug\NPOI.xml
+F:\C#\Force_Time\Force_Time\bin\Debug\myLib.pdb
+F:\C#\Force_Time\Force_Time\bin\Debug\myLib.dll
+F:\C#\Force_Time\Force_Time\obj\x86\Debug\Force_Time.windowSetDeviceName.resources
+F:\C#\Force_Time\Force_Time\bin\Debug\Force_Time.exe.manifest
+F:\C#\Force_Time\Force_Time\bin\Debug\Force_Time.application
+F:\C#\Force_Time\Force_Time\obj\x86\Debug\Force_Time.TrustInfo.xml
+F:\C#\Force_Time\Force_Time\obj\x86\Debug\Force_Time.exe.manifest
+F:\C#\Force_Time\Force_Time\obj\x86\Debug\Force_Time.application
+E:\采集卡曲线绘制\采集卡曲线绘制\源文件\Force_Time\Force_Time\bin\Debug\Iocomp.Instrumentation.WF40.Common.dll
+E:\采集卡曲线绘制\采集卡曲线绘制\源文件\Force_Time\Force_Time\bin\Debug\Iocomp.Instrumentation.WF40.Plot.dll
+E:\采集卡曲线绘制\采集卡曲线绘制\源文件\Force_Time\Force_Time\bin\Debug\Iocomp.Instrumentation.WF40.Pro.dll
+E:\采集卡曲线绘制\采集卡曲线绘制\源文件\Force_Time\Force_Time\bin\Debug\Iocomp.Instrumentation.WF40.Std.dll
+E:\采集卡曲线绘制\采集卡曲线绘制\源文件\Force_Time\Force_Time\bin\Debug\Iocomp.WF40.OPC.dll
+E:\采集卡曲线绘制\采集卡曲线绘制\源文件\Force_Time\Force_Time\bin\Debug\Ionic.Zip.dll
+E:\采集卡曲线绘制\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Debug\Force_Time.csprojResolveAssemblyReference.cache
+E:\采集卡曲线绘制\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Debug\Force_Time.MainWindow.resources
+E:\采集卡曲线绘制\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Debug\Force_Time.Properties.Resources.resources
+E:\采集卡曲线绘制\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Debug\Force_Time.windowBaseTool.resources
+E:\采集卡曲线绘制\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Debug\Force_Time.windowCharts.resources
+E:\采集卡曲线绘制\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Debug\Force_Time.windowConfigSense.resources
+E:\采集卡曲线绘制\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Debug\Force_Time.windowInfo.resources
+E:\采集卡曲线绘制\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Debug\Force_Time.windowSetDeviceName.resources
+E:\采集卡曲线绘制\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Debug\Force_Time.windowSetVisiableSense.resources
+E:\采集卡曲线绘制\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Debug\Force_Time.csproj.GenerateResource.Cache
+E:\采集卡曲线绘制\采集卡曲线绘制\源文件\Force_Time\Force_Time\bin\Debug\emtek数据采集.exe.config
+E:\采集卡曲线绘制\采集卡曲线绘制\源文件\Force_Time\Force_Time\bin\Debug\emtek数据采集.exe.manifest
+E:\采集卡曲线绘制\采集卡曲线绘制\源文件\Force_Time\Force_Time\bin\Debug\emtek数据采集.application
+E:\采集卡曲线绘制\采集卡曲线绘制\源文件\Force_Time\Force_Time\bin\Debug\emtek数据采集.exe
+E:\采集卡曲线绘制\采集卡曲线绘制\源文件\Force_Time\Force_Time\bin\Debug\emtek数据采集.pdb
+E:\采集卡曲线绘制\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Debug\emtek数据采集.exe.licenses
+E:\采集卡曲线绘制\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Debug\emtek数据采集.TrustInfo.xml
+E:\采集卡曲线绘制\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Debug\emtek数据采集.exe.manifest
+E:\采集卡曲线绘制\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Debug\emtek数据采集.application
+E:\采集卡曲线绘制\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Debug\emtek数据采集.exe
+E:\采集卡曲线绘制\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Debug\emtek数据采集.pdb
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\bin\Debug\emtek数据采集.exe.config
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\bin\Debug\emtek数据采集.exe.manifest
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\bin\Debug\emtek数据采集.application
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\bin\Debug\emtek数据采集.exe
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\bin\Debug\emtek数据采集.pdb
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\bin\Debug\Iocomp.Instrumentation.WF40.Common.dll
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\bin\Debug\Iocomp.Instrumentation.WF40.Plot.dll
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\bin\Debug\Iocomp.Instrumentation.WF40.Pro.dll
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\bin\Debug\Iocomp.Instrumentation.WF40.Std.dll
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\bin\Debug\Iocomp.WF40.OPC.dll
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\bin\Debug\Ionic.Zip.dll
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Debug\Force_Time.MainWindow.resources
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Debug\Force_Time.Properties.Resources.resources
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Debug\Force_Time.windowBaseTool.resources
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Debug\Force_Time.windowCharts.resources
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Debug\Force_Time.windowConfigSense.resources
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Debug\Force_Time.windowInfo.resources
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Debug\Force_Time.windowSetDeviceName.resources
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Debug\Force_Time.windowSetVisiableSense.resources
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Debug\Force_Time.csproj.GenerateResource.Cache
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Debug\emtek数据采集.exe.licenses
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Debug\emtek数据采集.TrustInfo.xml
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Debug\emtek数据采集.exe.manifest
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Debug\emtek数据采集.application
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Debug\emtek数据采集.exe
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Debug\emtek数据采集.pdb
+E:\采集卡曲线绘制\源文件\Force_Time\Force_Time\obj\x86\Debug\Force_Time.csprojResolveAssemblyReference.cache
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\Force_Time\bin\Debug\msvcp100.dll
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\Force_Time\bin\Debug\msvcr100d.dll
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\Force_Time\bin\Debug\msvcr120d.dll
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\Force_Time\bin\Debug\emtek数据采集.exe.config
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\Force_Time\bin\Debug\emtek数据采集.exe.manifest
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\Force_Time\bin\Debug\emtek数据采集.application
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\Force_Time\bin\Debug\emtek数据采集.exe
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\Force_Time\bin\Debug\emtek数据采集.pdb
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\Force_Time\bin\Debug\Iocomp.Instrumentation.WF40.Common.dll
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\Force_Time\bin\Debug\Iocomp.Instrumentation.WF40.Plot.dll
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\Force_Time\bin\Debug\Iocomp.Instrumentation.WF40.Pro.dll
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\Force_Time\bin\Debug\Iocomp.Instrumentation.WF40.Std.dll
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\Force_Time\bin\Debug\Iocomp.WF40.OPC.dll
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\Force_Time\bin\Debug\Ionic.Zip.dll
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\Force_Time\obj\x86\Debug\Force_Time.MainWindow.resources
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\Force_Time\obj\x86\Debug\Force_Time.Properties.Resources.resources
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\Force_Time\obj\x86\Debug\Force_Time.windowBaseTool.resources
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\Force_Time\obj\x86\Debug\Force_Time.windowCharts.resources
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\Force_Time\obj\x86\Debug\Force_Time.windowConfigSense.resources
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\Force_Time\obj\x86\Debug\Force_Time.windowInfo.resources
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\Force_Time\obj\x86\Debug\Force_Time.windowSetDeviceName.resources
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\Force_Time\obj\x86\Debug\Force_Time.windowSetVisiableSense.resources
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\Force_Time\obj\x86\Debug\Force_Time.csproj.GenerateResource.Cache
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\Force_Time\obj\x86\Debug\emtek数据采集.exe.licenses
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\Force_Time\obj\x86\Debug\emtek数据采集.TrustInfo.xml
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\Force_Time\obj\x86\Debug\emtek数据采集.exe.manifest
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\Force_Time\obj\x86\Debug\emtek数据采集.application
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\Force_Time\obj\x86\Debug\emtek数据采集.exe
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\Force_Time\obj\x86\Debug\emtek数据采集.pdb
+E:\采集卡曲线绘制\源文件\Force_Time_亚为\Force_Time\obj\x86\Debug\Force_Time.csprojResolveAssemblyReference.cache
+D:\BaiduNetdiskDownload\UMS亚为USB采集卡通用信号采集平台\UMS源代码 必须安装labview\UMS亚为USB采集卡通用信号采集平台V3.4.9 LV2014 源代码 好评送密码\Force_Time_亚为\Force_Time\bin\Debug\msvcp100.dll
+D:\BaiduNetdiskDownload\UMS亚为USB采集卡通用信号采集平台\UMS源代码 必须安装labview\UMS亚为USB采集卡通用信号采集平台V3.4.9 LV2014 源代码 好评送密码\Force_Time_亚为\Force_Time\bin\Debug\msvcr100d.dll
+D:\BaiduNetdiskDownload\UMS亚为USB采集卡通用信号采集平台\UMS源代码 必须安装labview\UMS亚为USB采集卡通用信号采集平台V3.4.9 LV2014 源代码 好评送密码\Force_Time_亚为\Force_Time\bin\Debug\msvcr120d.dll
+D:\BaiduNetdiskDownload\UMS亚为USB采集卡通用信号采集平台\UMS源代码 必须安装labview\UMS亚为USB采集卡通用信号采集平台V3.4.9 LV2014 源代码 好评送密码\Force_Time_亚为\Force_Time\bin\Debug\Iocomp.Instrumentation.WF40.Common.dll
+D:\BaiduNetdiskDownload\UMS亚为USB采集卡通用信号采集平台\UMS源代码 必须安装labview\UMS亚为USB采集卡通用信号采集平台V3.4.9 LV2014 源代码 好评送密码\Force_Time_亚为\Force_Time\bin\Debug\Iocomp.Instrumentation.WF40.Plot.dll
+D:\BaiduNetdiskDownload\UMS亚为USB采集卡通用信号采集平台\UMS源代码 必须安装labview\UMS亚为USB采集卡通用信号采集平台V3.4.9 LV2014 源代码 好评送密码\Force_Time_亚为\Force_Time\bin\Debug\Iocomp.Instrumentation.WF40.Pro.dll
+D:\BaiduNetdiskDownload\UMS亚为USB采集卡通用信号采集平台\UMS源代码 必须安装labview\UMS亚为USB采集卡通用信号采集平台V3.4.9 LV2014 源代码 好评送密码\Force_Time_亚为\Force_Time\bin\Debug\Iocomp.Instrumentation.WF40.Std.dll
+D:\BaiduNetdiskDownload\UMS亚为USB采集卡通用信号采集平台\UMS源代码 必须安装labview\UMS亚为USB采集卡通用信号采集平台V3.4.9 LV2014 源代码 好评送密码\Force_Time_亚为\Force_Time\bin\Debug\Iocomp.WF40.OPC.dll
+D:\BaiduNetdiskDownload\UMS亚为USB采集卡通用信号采集平台\UMS源代码 必须安装labview\UMS亚为USB采集卡通用信号采集平台V3.4.9 LV2014 源代码 好评送密码\Force_Time_亚为\Force_Time\bin\Debug\Ionic.Zip.dll
+D:\BaiduNetdiskDownload\UMS亚为USB采集卡通用信号采集平台\UMS源代码 必须安装labview\UMS亚为USB采集卡通用信号采集平台V3.4.9 LV2014 源代码 好评送密码\Force_Time_亚为\Force_Time\obj\x86\Debug\Force_Time.MainWindow.resources
+D:\BaiduNetdiskDownload\UMS亚为USB采集卡通用信号采集平台\UMS源代码 必须安装labview\UMS亚为USB采集卡通用信号采集平台V3.4.9 LV2014 源代码 好评送密码\Force_Time_亚为\Force_Time\obj\x86\Debug\Force_Time.Properties.Resources.resources
+D:\BaiduNetdiskDownload\UMS亚为USB采集卡通用信号采集平台\UMS源代码 必须安装labview\UMS亚为USB采集卡通用信号采集平台V3.4.9 LV2014 源代码 好评送密码\Force_Time_亚为\Force_Time\obj\x86\Debug\Force_Time.windowBaseTool.resources
+D:\BaiduNetdiskDownload\UMS亚为USB采集卡通用信号采集平台\UMS源代码 必须安装labview\UMS亚为USB采集卡通用信号采集平台V3.4.9 LV2014 源代码 好评送密码\Force_Time_亚为\Force_Time\obj\x86\Debug\Force_Time.windowCharts.resources
+D:\BaiduNetdiskDownload\UMS亚为USB采集卡通用信号采集平台\UMS源代码 必须安装labview\UMS亚为USB采集卡通用信号采集平台V3.4.9 LV2014 源代码 好评送密码\Force_Time_亚为\Force_Time\obj\x86\Debug\Force_Time.windowConfigSense.resources
+D:\BaiduNetdiskDownload\UMS亚为USB采集卡通用信号采集平台\UMS源代码 必须安装labview\UMS亚为USB采集卡通用信号采集平台V3.4.9 LV2014 源代码 好评送密码\Force_Time_亚为\Force_Time\obj\x86\Debug\Force_Time.windowInfo.resources
+D:\BaiduNetdiskDownload\UMS亚为USB采集卡通用信号采集平台\UMS源代码 必须安装labview\UMS亚为USB采集卡通用信号采集平台V3.4.9 LV2014 源代码 好评送密码\Force_Time_亚为\Force_Time\obj\x86\Debug\Force_Time.windowSetDeviceName.resources
+D:\BaiduNetdiskDownload\UMS亚为USB采集卡通用信号采集平台\UMS源代码 必须安装labview\UMS亚为USB采集卡通用信号采集平台V3.4.9 LV2014 源代码 好评送密码\Force_Time_亚为\Force_Time\obj\x86\Debug\Force_Time.windowSetVisiableSense.resources
+D:\BaiduNetdiskDownload\UMS亚为USB采集卡通用信号采集平台\UMS源代码 必须安装labview\UMS亚为USB采集卡通用信号采集平台V3.4.9 LV2014 源代码 好评送密码\Force_Time_亚为\Force_Time\obj\x86\Debug\Force_Time.csproj.GenerateResource.Cache
+D:\BaiduNetdiskDownload\UMS亚为USB采集卡通用信号采集平台\UMS源代码 必须安装labview\UMS亚为USB采集卡通用信号采集平台V3.4.9 LV2014 源代码 好评送密码\Force_Time_亚为\Force_Time\bin\Debug\emtek数据采集_亚为_高速.exe.config
+D:\BaiduNetdiskDownload\UMS亚为USB采集卡通用信号采集平台\UMS源代码 必须安装labview\UMS亚为USB采集卡通用信号采集平台V3.4.9 LV2014 源代码 好评送密码\Force_Time_亚为\Force_Time\bin\Debug\emtek数据采集_亚为_高速.exe
+D:\BaiduNetdiskDownload\UMS亚为USB采集卡通用信号采集平台\UMS源代码 必须安装labview\UMS亚为USB采集卡通用信号采集平台V3.4.9 LV2014 源代码 好评送密码\Force_Time_亚为\Force_Time\bin\Debug\emtek数据采集_亚为_高速.pdb
+D:\BaiduNetdiskDownload\UMS亚为USB采集卡通用信号采集平台\UMS源代码 必须安装labview\UMS亚为USB采集卡通用信号采集平台V3.4.9 LV2014 源代码 好评送密码\Force_Time_亚为\Force_Time\obj\x86\Debug\emtek数据采集_亚为_高速.exe.licenses
+D:\BaiduNetdiskDownload\UMS亚为USB采集卡通用信号采集平台\UMS源代码 必须安装labview\UMS亚为USB采集卡通用信号采集平台V3.4.9 LV2014 源代码 好评送密码\Force_Time_亚为\Force_Time\obj\x86\Debug\emtek数据采集_亚为_高速.exe
+D:\BaiduNetdiskDownload\UMS亚为USB采集卡通用信号采集平台\UMS源代码 必须安装labview\UMS亚为USB采集卡通用信号采集平台V3.4.9 LV2014 源代码 好评送密码\Force_Time_亚为\Force_Time\obj\x86\Debug\emtek数据采集_亚为_高速.pdb
+D:\BaiduNetdiskDownload\UMS亚为USB采集卡通用信号采集平台\UMS源代码 必须安装labview\UMS亚为USB采集卡通用信号采集平台V3.4.9 LV2014 源代码 好评送密码\Force_Time_亚为\Force_Time\bin\Debug\emtek数据采集_亚为_高速.exe.manifest
+D:\BaiduNetdiskDownload\UMS亚为USB采集卡通用信号采集平台\UMS源代码 必须安装labview\UMS亚为USB采集卡通用信号采集平台V3.4.9 LV2014 源代码 好评送密码\Force_Time_亚为\Force_Time\bin\Debug\emtek数据采集_亚为_高速.application
+D:\BaiduNetdiskDownload\UMS亚为USB采集卡通用信号采集平台\UMS源代码 必须安装labview\UMS亚为USB采集卡通用信号采集平台V3.4.9 LV2014 源代码 好评送密码\Force_Time_亚为\Force_Time\obj\x86\Debug\emtek数据采集_亚为_高速.TrustInfo.xml
+D:\BaiduNetdiskDownload\UMS亚为USB采集卡通用信号采集平台\UMS源代码 必须安装labview\UMS亚为USB采集卡通用信号采集平台V3.4.9 LV2014 源代码 好评送密码\Force_Time_亚为\Force_Time\obj\x86\Debug\emtek数据采集_亚为_高速.exe.manifest
+D:\BaiduNetdiskDownload\UMS亚为USB采集卡通用信号采集平台\UMS源代码 必须安装labview\UMS亚为USB采集卡通用信号采集平台V3.4.9 LV2014 源代码 好评送密码\Force_Time_亚为\Force_Time\obj\x86\Debug\emtek数据采集_亚为_高速.application
+E:\采集卡曲线绘制\源文件\Force_Time_亚为_高速\Force_Time\bin\Debug\emtek数据采集_亚为_高速.exe.config
+E:\采集卡曲线绘制\源文件\Force_Time_亚为_高速\Force_Time\obj\x86\Debug\emtek数据采集_亚为_高速.exe
+E:\采集卡曲线绘制\源文件\Force_Time_亚为_高速\Force_Time\obj\x86\Debug\emtek数据采集_亚为_高速.pdb
+E:\采集卡曲线绘制\源文件\Force_Time_亚为_高速\Force_Time\bin\Debug\msvcp100.dll
+E:\采集卡曲线绘制\源文件\Force_Time_亚为_高速\Force_Time\bin\Debug\msvcr100d.dll
+E:\采集卡曲线绘制\源文件\Force_Time_亚为_高速\Force_Time\bin\Debug\msvcr120d.dll
+E:\采集卡曲线绘制\源文件\Force_Time_亚为_高速\Force_Time\bin\Debug\emtek数据采集_亚为_高速.exe.manifest
+E:\采集卡曲线绘制\源文件\Force_Time_亚为_高速\Force_Time\bin\Debug\emtek数据采集_亚为_高速.application
+E:\采集卡曲线绘制\源文件\Force_Time_亚为_高速\Force_Time\bin\Debug\emtek数据采集_亚为_高速.exe
+E:\采集卡曲线绘制\源文件\Force_Time_亚为_高速\Force_Time\bin\Debug\emtek数据采集_亚为_高速.pdb
+E:\采集卡曲线绘制\源文件\Force_Time_亚为_高速\Force_Time\bin\Debug\Iocomp.Instrumentation.WF40.Common.dll
+E:\采集卡曲线绘制\源文件\Force_Time_亚为_高速\Force_Time\bin\Debug\Iocomp.Instrumentation.WF40.Plot.dll
+E:\采集卡曲线绘制\源文件\Force_Time_亚为_高速\Force_Time\bin\Debug\Iocomp.Instrumentation.WF40.Pro.dll
+E:\采集卡曲线绘制\源文件\Force_Time_亚为_高速\Force_Time\bin\Debug\Iocomp.Instrumentation.WF40.Std.dll
+E:\采集卡曲线绘制\源文件\Force_Time_亚为_高速\Force_Time\bin\Debug\Iocomp.WF40.OPC.dll
+E:\采集卡曲线绘制\源文件\Force_Time_亚为_高速\Force_Time\bin\Debug\Ionic.Zip.dll
+E:\采集卡曲线绘制\源文件\Force_Time_亚为_高速\Force_Time\obj\x86\Debug\Force_Time.csprojResolveAssemblyReference.cache
+E:\采集卡曲线绘制\源文件\Force_Time_亚为_高速\Force_Time\obj\x86\Debug\Force_Time.MainWindow.resources
+E:\采集卡曲线绘制\源文件\Force_Time_亚为_高速\Force_Time\obj\x86\Debug\Force_Time.Properties.Resources.resources
+E:\采集卡曲线绘制\源文件\Force_Time_亚为_高速\Force_Time\obj\x86\Debug\Force_Time.windowBaseTool.resources
+E:\采集卡曲线绘制\源文件\Force_Time_亚为_高速\Force_Time\obj\x86\Debug\Force_Time.windowCharts.resources
+E:\采集卡曲线绘制\源文件\Force_Time_亚为_高速\Force_Time\obj\x86\Debug\Force_Time.windowConfigSense.resources
+E:\采集卡曲线绘制\源文件\Force_Time_亚为_高速\Force_Time\obj\x86\Debug\Force_Time.windowInfo.resources
+E:\采集卡曲线绘制\源文件\Force_Time_亚为_高速\Force_Time\obj\x86\Debug\Force_Time.windowSetDeviceName.resources
+E:\采集卡曲线绘制\源文件\Force_Time_亚为_高速\Force_Time\obj\x86\Debug\Force_Time.windowSetVisiableSense.resources
+E:\采集卡曲线绘制\源文件\Force_Time_亚为_高速\Force_Time\obj\x86\Debug\Force_Time.csproj.GenerateResource.Cache
+E:\采集卡曲线绘制\源文件\Force_Time_亚为_高速\Force_Time\obj\x86\Debug\emtek数据采集_亚为_高速.exe.licenses
+E:\采集卡曲线绘制\源文件\Force_Time_亚为_高速\Force_Time\obj\x86\Debug\emtek数据采集_亚为_高速.TrustInfo.xml
+E:\采集卡曲线绘制\源文件\Force_Time_亚为_高速\Force_Time\obj\x86\Debug\emtek数据采集_亚为_高速.exe.manifest
+E:\采集卡曲线绘制\源文件\Force_Time_亚为_高速\Force_Time\obj\x86\Debug\emtek数据采集_亚为_高速.application
